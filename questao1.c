@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main () {
+int main() {
 
     //variáveis de consumo, soma, média e uma variável index.
     float consumo, soma = 0, media;
